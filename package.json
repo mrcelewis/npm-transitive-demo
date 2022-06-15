@@ -15,7 +15,7 @@
     "react-app-polyfill": "^3.0.0",
     "react-dom": "^18.0.0",
     "react-google-recaptcha-v3": "^1.4.0",
-    "react-router-dom": "^5.0.1",
+    "react-router-dom": "^6.0.0",
     "react-scripts": "5.0.1",
     "yup": "^0.32.0"
   },
